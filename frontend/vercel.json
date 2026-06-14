@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/:path*",
+            "destination": "https://chatty-jx6l.onrender.com/api/:path*"
+        }
+    ]
+}
